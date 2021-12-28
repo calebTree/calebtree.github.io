@@ -1,10 +1,10 @@
 # Portfolio
-* [calebdanderson.net/portfolio](/portfolio)
+* [calebdanderson.dev/portfolio](/portfolio)
 
 <!-- break ul -->
 
 ## Blog
-* [blog.calebdanders.net](https://blog.calebdanderson.net)
+* [secblog.calebdanderson.dev](https://secblog.calebdanderson.dev)
 
 <!-- break ul -->
 
