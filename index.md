@@ -1,5 +1,5 @@
 ---
-redirect_to: https://www.github.com/calebTree/
+redirect_to: https://calebdanderson.dev
 ---
 
 # Portfolio
