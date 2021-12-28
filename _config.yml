@@ -1,0 +1,4 @@
+title: Redirect
+
+plugins:
+  - jekyll-redirect-from

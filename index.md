@@ -1,3 +1,7 @@
+---
+redirect_to: https://www.github.com/calebTree/
+---
+
 # Portfolio
 * [calebdanderson.net/portfolio](/portfolio)
 
