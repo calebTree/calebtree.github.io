@@ -61,11 +61,10 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-linux
 
 DEPENDENCIES
   jekyll
   jekyll-redirect-from
 
 BUNDLED WITH
-   2.3.3
+   2.1.2
